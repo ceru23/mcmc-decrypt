@@ -1,7 +1,7 @@
 ## Decrypting Messages with MCMC
 
 
-Simple code to test MCMC for decrypting messages
+Simple code to test MCMC for decrypting messages using Metropolis-Hastings sampler
 
 
 ##### Unigram probabilities:
